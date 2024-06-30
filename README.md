@@ -40,7 +40,7 @@ The project utilizes a [Kaggle dataset](https://www.kaggle.com/datasets/blanderb
 
 ### Deliverables
 
-1. **Project Report (PDF):** Comprehensive documentation in APA 7 style ([Sample Professional Paper](link_to_sample)).
+1. **Project Report (PDF):** Comprehensive documentation in APA 7 style ([Sample Professional Paper](https://github.com/aai511-groupX/project/blob/main/docs/Sample%20APA%20Professional%20Paper.pdf).
     - File Naming: `DeliverableName-TeamNumber.pdf` (e.g., `Project_Report-Team1.pdf`)
     - Include:
         - Methodology
