@@ -40,7 +40,7 @@ The project utilizes a [Kaggle dataset](link_to_dataset) of MIDI files from clas
 
 ### Deliverables
 
-1. **Project Report (PDF):** Comprehensive documentation in APA 7 style ([Sample Professional Paper](link_to_sample)).  
+1. **Project Report (PDF):** Comprehensive documentation in APA 7 style ([Sample Professional Paper](link_to_sample)).
     - File Naming: `DeliverableName-TeamNumber.pdf` (e.g., `Project_Report-Team1.pdf`)
     - Include:
         - Methodology
