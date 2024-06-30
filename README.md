@@ -21,7 +21,7 @@ The primary objective is developing a deep learning model to predict the compose
 
 ### Dataset
 
-The project utilizes a [Kaggle dataset](link_to_dataset) of MIDI files from classical composers.  Focus will be on:
+The project utilizes a [Kaggle dataset](https://www.kaggle.com/datasets/blanderbuss/midi-classic-music) of MIDI files from classical composers.  Focus will be on:
 
 1. Bach
 2. Beethoven
