@@ -1,6 +1,4 @@
 [submodule "data/raw/midi-classical-music"]
 	path = data/raw/midi-classical-music
 	url = https://huggingface.co/datasets/drengskapur/midi-classical-music
-[submodule "data/interim/wav"]
-	path = data/interim/wav
-	url = https://huggingface.co/datasets/drengskapur/wav-classical-music
+
