@@ -1,4 +1,4 @@
-# Final Team Project: Music Genre and Composer Classification Using Deep Learning
+# Deep Learning Approaches to Classical Composer Classification
 
 ## Introduction
 
